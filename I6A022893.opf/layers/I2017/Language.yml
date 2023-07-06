@@ -1,0 +1,99 @@
+id: 87b7d0aa2ab94a84a41a8ee77ce048e9
+annotation_type: Language
+revision: '00001'
+annotations:
+  224973d255e9434f9692a937d65aaa9a:
+    span:
+      start: 0
+      end: 150
+    language: en
+  2c17878ea9244fbea05fd0438d642c7d:
+    span:
+      start: 189
+      end: 639
+    language: en
+  27e4f085875648fba9028ce997df64f3:
+    span:
+      start: 34025
+      end: 34048
+    language: en
+  16236cc648b44e7f8ffaaeb7f07f267d:
+    span:
+      start: 206203
+      end: 206231
+    language: en
+  c78bece3e9bc4e0ca4ab27c57c6cc152:
+    span:
+      start: 270393
+      end: 270435
+    language: en
+  4997a24231b5478da7cc120a949c168a:
+    span:
+      start: 329411
+      end: 329454
+    language: en
+  755ea61726fc4b308646c29aa6fd3a2b:
+    span:
+      start: 441377
+      end: 441416
+    language: en
+  23a5ae53b8fc4866a24668f19432a066:
+    span:
+      start: 512133
+      end: 512154
+    language: en
+  6624c1b1678f45e9bc38707adefd9061:
+    span:
+      start: 837619
+      end: 837647
+    language: en
+  af05ee27badf4d5e8aff077e652b29d8:
+    span:
+      start: 907474
+      end: 907515
+    language: en
+  b9160759c7b647dca742567b70850f7c:
+    span:
+      start: 948741
+      end: 948769
+    language: en
+  6eecfbcb3b15456e8f544d3fc57ea123:
+    span:
+      start: 997036
+      end: 997096
+    language: en
+  d209f084fb40415a901972897458ab69:
+    span:
+      start: 1124426
+      end: 1124460
+    language: en
+  8d9a56cf133f41ceb37f08d0b9b884bb:
+    span:
+      start: 1127153
+      end: 1127246
+    language: en
+  f7bf4603337b43c7b27461857b17c436:
+    span:
+      start: 1248115
+      end: 1248281
+    language: en
+  951e4b930eda494c97bbaf497be260f6:
+    span:
+      start: 1248309
+      end: 1250641
+    language: en
+  df91923d7d3841dba6ce22aaa1a0f78c:
+    span:
+      start: 1250680
+      end: 1250789
+    language: en
+  ba6f9f96b0a14468bfd64b49728669ae:
+    span:
+      start: 1250886
+      end: 1250953
+    language: en
+  a1bd1ada7dc5485ebaedd05ce859b9cc:
+    span:
+      start: 1250982
+      end: 1251521
+    language: en
